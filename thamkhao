@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2 style="text-align:center;">FAVORITES</h2>
+    <div>
+        <div style="padding-left:39%;">
+            <ul>
+                <li>Watching movies</li>
+                    <ul>
+                        <li>Types: romance, drama, comedy</li>
+                        <li>Actor: Leonardo Dicaprio, Tom Hank</li>
+                    </ul>
+                <li>Playing football</li>
+                    <ul>
+                        <li>Club: Manchester United, Realmadrid</li>
+                        <l>Football stars: Ronaldo, Messi, Luka Modric</l>
+                    </ul>
+                <li>Hanging out</li>
+                    <ul>
+                        <li>Have fun with friends</li>
+                    </ul>
+                <li>Using computer</li>
+                    <ul>
+                        <li>Youtube</li>
+                        <li>Reading blog</li>
+                    </ul>
+</body>
+</html> 
